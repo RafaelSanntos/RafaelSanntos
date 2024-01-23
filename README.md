@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
+![github-header-image](https://github.com/RafaelSanntos/RafaelSanntos/assets/102318143/b589b149-59f8-4b83-8871-048927a64747)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Santos+👋🏻;I'm+21+years+old;I'm+from+Brasil;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelsanntos&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -39,6 +41,8 @@
 </div><br/>
 
 ### Committed to transforming lines of code into incredible experiences, constantly seeking to improve my skills and contribute to the world of technology. 🚀✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+<3;+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
