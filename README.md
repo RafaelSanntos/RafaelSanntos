@@ -50,11 +50,12 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RafaelSanntos/RafaelSanntos/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br>
+<h2>🕵🏻‍♂️ Visitors Count 🕵🏻‍♂️</h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelsanntos}/count.svg" /></p> 
 <br>
 </div>
