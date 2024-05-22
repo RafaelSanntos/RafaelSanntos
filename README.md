@@ -29,7 +29,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raafaelsantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelsantorski/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelgamail9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:job.rafaelsantos@gmail.com)
 [![RafaDevPortfolio](https://img.shields.io/badge/RafaDevPortfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=green&labelColor=black&color=green)](https://rafaelsanntos.github.io/Rafa-Dev-Portfolio/)
 
 ### Technologies I use in my daily life:
@@ -44,6 +44,14 @@
 ### Committed to transforming lines of code into incredible experiences, constantly seeking to improve my skills and contribute to the world of technology. 🚀✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+<3;+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RafaelSanntos/RafaelSanntos/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
