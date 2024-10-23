@@ -18,7 +18,7 @@
 
 ### Details:
 
-- 👨🏻‍💻 I'm a back-end developer
+- 👨🏻‍💻 I'm a full stack developer
 - 🌱 Studying C# and .NET
 - 😄 Pronouns: He/Him
 - 🎓 Graduated in Systems Development
@@ -27,19 +27,30 @@
 
 ### Connect and let's learn together 🫱🏻‍🫲🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raafaelsantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelsantorski/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:job.rafaelsantos@gmail.com)
-[![RafaDevPortfolio](https://img.shields.io/badge/RafaDevPortfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=green&labelColor=black&color=green)](https://rafaelsanntos.github.io/Rafa-Dev-Portfolio/)
+<p align="center">
+  <a href="https://rafaelsanntos.github.io/Rafa-Dev-Portfolio/">
+    <img src="https://img.shields.io/badge/RafaDevPortfolio-FF1B2D?style=for-the-badge&logo=Brave&logoColor=green&labelColor=black&color=green" alt="RafaDevPortfolio" style="height: 47px;">
+  </a>
+  <a href="https://www.linkedin.com/in/raafaelsantos/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rafaelsantorski/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:job.rafaelsantos@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://rafaelsanntos.github.io/Rafa-Dev-Portfolio/">
+    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
+  </a>
+</p>
 
 ### Technologies I use in my daily life:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</div><br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,mysql,cs,dotnet,visualstudio,vscode,figma,firebase,git" />
+  </a>
+</p>
 
 ### Committed to transforming lines of code into incredible experiences, constantly seeking to improve my skills and contribute to the world of technology. 🚀✨
 
