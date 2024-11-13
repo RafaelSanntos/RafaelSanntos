@@ -40,9 +40,6 @@
   <a href="mailto:job.rafaelsantos@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://rafaelsanntos.github.io/Rafa-Dev-Portfolio/">
-    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
-  </a>
 </p>
 
 ### Technologies I use in my daily life:
